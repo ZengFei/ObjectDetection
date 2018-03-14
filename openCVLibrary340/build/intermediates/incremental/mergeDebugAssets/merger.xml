@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/wangxiaochen/Android/ObjectDetection/openCVLibrary340/src/main/assets"/><source path="/Users/wangxiaochen/Android/ObjectDetection/openCVLibrary340/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/wangxiaochen/Android/ObjectDetection/openCVLibrary340/src/debug/assets"/></dataSet></merger>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/frontface"
+        android:title="Face Detection"/>
+
+    <item
+       android:id="@+id/eye"
+       android:title="Eye Detection"/>
+
+    <item
+        android:id="@+id/glass"
+        android:title="Glasses Detection"/>
+
+    <item
+        android:id="@+id/nose"
+        android:title="Nose Detection"/>
+
+    <item
+        android:id="@+id/mouth"
+        android:title="Mouth Detection"/>
+
+</menu>
